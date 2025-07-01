@@ -53,6 +53,5 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/OfekYosef-D/OfekYosef-D/output/snake.svg" alt="Snake animation" />
 
 ###
