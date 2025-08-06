@@ -2,7 +2,7 @@
 
 ###
 
-<h3 align="center">💻 Self-taught Junior Full-Stack Developer with experience in modern web technologies and cloud platforms<br>🔧 IT Technician at Ness Matach Ltd, supporting 1000+ students and 130+ staff</h3>
+<h3 align="center">💻 Self-taught Junior Full-Stack Developer with experience in modern web technologies and cloud platforms<br>🔧 Supervisor at Cust2Mate, The Innovative Smart Cart Platform, for Smart Retail Stores </h3>
 
 ###
 
