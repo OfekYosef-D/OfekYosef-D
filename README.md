@@ -1,8 +1,8 @@
-<h1 align="center">Hi 👋! I'm Ofek Yosef, a 🎓 Computer Science Student at Holon Institute of Technology</h1>
+<h1 align="center">Hi 👋! I'm Ofek Yosef :)</h1>
 
 ###
 
-<h3 align="center">💻 Self-taught Junior Full-Stack Developer with experience in modern web technologies and cloud platforms<br>🔧 Supervisor at Cust2Mate, The Innovative Smart Cart Platform, for Smart Retail Stores </h3>
+<h3 align="center">💻 Self-taught Junior Developer with experience in modern web technologies and ai<br>🔧 Implementation Specialist at Cust2Mate, The Innovative Smart Cart Platform, for Smart Retail Stores </h3>
 
 ###
 
